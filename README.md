@@ -20,10 +20,10 @@
 
 ```ascii
 ╭─────────────────────────────────────────────────────────────╮
-│  🎯 Desenvolvedor apaixonado por criar soluções inovadoras   │
-│  💜 Especialista em tecnologias modernas                     │
-│  🌱 Sempre em busca de novos desafios                        │
-│  ⚡ Transformando ideias em realidade através do código      │
+│  🎯 Desenvolvedor apaixonado por criar soluções inovadoras  |
+│  💜 Especialista em tecnologias modernas                    │
+│  🌱 Sempre em busca de novos desafios                       │
+│  ⚡ Transformando ideias em realidade através do código     │
 ╰─────────────────────────────────────────────────────────────╯
 ```
 
